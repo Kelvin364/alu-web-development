@@ -1,0 +1,522 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden;
+    background-color:aqua(247, 248, 250, 1);
+    
+}
+main{
+width: Fixed (1,441px)px;
+height: Fixed (946px)px;
+padding-top: 97px;
+padding-left: 52px;
+padding-right: 52px;
+gap: 0px;
+opacity: 0px;
+
+    
+}
+::content{
+    width: Fill (1,441px)px;
+height: Hug (866px)px;
+gap: 0px;
+border-radius: 24px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid rgba(233, 234, 234, 1);
+
+}
+
+.section_f{
+width: Fill (1,441px)px;
+height: Hug (242px)px;
+gap: 2px;
+background-color: rgba(255, 255, 255, 1);
+
+}
+.Title{
+    width: Fill (1,441px)px;
+    height: Hug (866px)px;
+    gap: 0px;
+    border-radius: 24px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    border: rgba(247, 248, 250, 1) 1px solid;
+
+    
+}
+.project{
+ width: Fill (1,441px)px;
+height: Hug (58px)px;
+padding: 0px 20px 0px 20px;
+gap: 0px;
+justify-content: space-between;
+opacity: 0px;
+display: flex;
+}
+.project-title{
+    width: Fixed (804.5px)px;
+height: Hug (58px)px;
+gap: 10px;
+opacity: 0px;
+
+}
+.project-icons{
+ width: Hug (120px)px;
+height: Hug (32px)px;
+gap: 12px;
+opacity: 0px;
+padding-top: 5px;
+
+}
+.project-title h1{
+    width: 260px;
+    height: 33px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32.78px;
+    text-align: left;
+    color: rgba(30, 41, 59, 1);
+}
+.project-title p{
+font-family: 'Plus Jakarta Sans';
+font-size: 12px;
+font-weight: 500;
+line-height: 15.12px;
+text-align: left;
+color: rgba(71, 85, 105, 1);
+}
+.project-icons {
+    width: Hug (120px)px;
+    height: Hug (32px)px;
+    gap: 12px;
+    opacity: 0px;
+    
+}
+.project-icons img{
+
+    width: 20px;  
+    height: 20px;
+    background: rgba(244, 245, 251, 1);
+    gap: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+.overview{
+width: Fill (1,441px)px;
+height: Hug (56px)px;
+padding: 0px 20px 0px 20px;
+gap: 30px;
+border: 0px 0px 1px 0px;
+opacity: 0px;
+display: flex;
+}
+.overview .tab{
+    width: 85%;
+    height: Hug (8px)px;
+    gap: 2px;
+    opacity: 0px;
+    display: flex;  
+    padding: 26px 12px 14px 12px; 
+    /* border: 1px red solid; */
+}
+.overview .tab p{
+width: Hug (87px)px;
+height: Hug (38px)px;
+padding: 6px 12px 14px 12px;
+gap: 4px;
+border: 0px 0px 1.5px 0px;
+opacity: 0px;
+display: flex;
+font-family: 'Plus Jakarta Sans';
+font-size: 14px;
+font-weight: 400;
+line-height: 18px;
+text-align: left;
+color: rgba(71, 85, 105, 1);
+position: relative;
+top:20px;
+
+}
+.overview .iconic{
+    display:flex;
+    width:  187px;
+   height: 50px;
+   padding: 0px 0px 8px 0px;
+   gap: 4px;
+   opacity: 0px;
+   border-radius: 12px 12px 12px 12px;
+   border: 1px solid rgba(233, 234, 234, 1); 
+   
+}
+.overview .iconic .image{
+    display: flex;
+    width: Hug (70px)px;
+    height: Hug (28px)px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+    top: 12px;
+    left:5px;
+
+}
+.overview .iconic .image img{
+width: 28px;
+height: 28px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+.overview .iconic .invitation{
+    display: flex;
+    
+}
+
+.ellipse8{
+    right: 15px;
+    position: relative;
+}
+.ellipse9{
+    position:relative;
+    right:30px;
+}
+.image .x{
+    position: relative;
+    right: 45px;
+    background: rgba(244, 245, 251, 1);
+    height: 28px;
+    width: 28px;
+    gap: 10px;
+    border-radius: 25px 25px 25px 25px;
+    opacity: 0px;
+    text-align:center;
+    text-decoration-color: white;
+    color:rgba(79, 70, 229, 1);
+    font-family: 'Plus Jakarta Sans';
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15.12px;
+    text-align: center;
+}
+.image p{
+    position: relative;
+    top: 5px;
+}
+.invitation{
+    width:  40px;
+    height: 18px;
+    padding: 10px 14px 10px 14px;
+    gap: 4px;
+    border-radius: 12px 12px 12px 12px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(233, 234, 234, 1); 
+    position: relative;
+    top:5px; 
+    right: 50px;
+
+}
+.invitation img{
+width: 20px;
+height: 20px;
+padding: 2px 0px 0px 0px;
+gap: 8px;
+opacity: 0px;
+padding-bottom: 5px;
+position:relative;
+bottom: 5px;
+right: 10px;
+/* border: 1px red solid; */
+}
+.invitation p{
+font-family: 'Public Sans';
+font-size: 14px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0.005em;
+text-align: left;
+color: rgba(114, 122, 144, 1);
+position: relative;
+bottom:  2px;
+right:10px;
+
+}
+.divider {
+    width: 2px; 
+    height: 30px; 
+    background-color: #a0a0a0; 
+    border: 1px solid rgba(233, 234, 234, 1); 
+    margin: 0 20px; 
+    position: relative; 
+    top: 10px;
+    right: 40px;
+  }
+.blue-div{
+    width: 34px; 
+    height: 2px; 
+    background-color: rgba(79, 70, 229, 1);    ; 
+    margin: 0 20px; 
+    position: relative;
+    top: 75px;  
+    right: 880px;
+}
+.linear{
+width: Fill (1,441px)px;
+height: Fixed (72px)px;
+padding: 20px 0px 0px 0px;
+gap: 10px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+display:flex;
+justify-content: space-between;
+border: rgba(247, 248, 250, 1) 1px solid;
+
+
+}
+.linear1-1{
+    width: Hug (150px)px;
+    height: Hug (32px)px;
+    gap: 2px;
+    opacity: 0px;
+    display: flex;   
+    position:relative;
+    left:32px; 
+}
+.linear1{
+    display:flex;
+    width: Hug (80px)px;
+   height: Fixed (32px)px;
+   padding: 6px 12px 6px 12px;
+   border-radius: 28px 0px 0px 0px;
+   opacity: 0px;
+
+
+}
+.linear1 img{
+    width: 14px;
+height: 14px;
+gap: 0px;
+opacity: 0px;
+}
+.linear p {
+font-family: 'Plus Jakarta Sans';
+font-size: 14px;
+font-weight: 400;
+line-height: 18px;
+text-align: left;
+width: 36px;
+height: 18px;
+position: relative;
+left:3px;
+bottom: 2px;
+}
+.linear2{
+display: flex;
+width: 45px;
+height: 20px;
+padding: 6px 12px 6px 12px;
+gap: 6px;
+border-radius: 12px 12px 12px 12px;
+opacity: 0px;
+background: rgba(243, 243, 243, 1);
+
+}
+.linear2 img{
+    width: 14px;
+    height: 14px;
+}
+.linear2-1{
+   display:flex;
+   gap:10px;
+   position:relative;
+   right:30px;
+}
+.linear4{
+    display:flex;
+}
+.linear4 img{
+    width: 14px;
+    height: 14px;
+}
+.linear3 button{
+width: Hug (116px)px;
+height: 33px;
+padding: 8px 14px 10px 12px;
+gap: 6px;
+border-radius: 12px 12px 12px 12px;
+opacity: 0px;
+background: rgba(79, 70, 229, 1);
+color: aliceblue;
+border: 1px solid white;
+font-family: 'Plus Jakarta Sans';
+font-size: 14px;
+font-weight: 500;
+line-height: 17.64px;
+text-align: left;
+position: relative;
+bottom:10px;
+
+}
+.section_s{
+width: Fixed (1,441px)px;
+height: Hug (624px)px;
+gap: 24px;
+
+}
+table{
+width: 100%;
+height: Hug (624px)px;
+border-radius: var(--border-radiusradius-xl);
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid rgba(233, 234, 234, 1); 
+}
+th{
+position: relative;
+right: 80px;
+font-family: 'Plus Jakarta Sans';
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+    
+}
+th .checkbox{
+    position:relative;
+    right: 3px;
+    top: 5px;
+    padding-left: 2px;
+}
+th .drop{
+    position:relative;
+    top:5px;
+}
+.lastM{
+    position:relative;
+    right: 200px;   
+}
+ .size{
+    position: relative;
+    right: 50px;
+    
+}
+.actions{
+    left: 0px;
+}
+.checker{
+width: 20px;
+height: 20px;
+padding: 4px 0px 0px 0px;
+border-radius: 8px 0px 0px 0px;
+padding-left: 2px;
+margin-right: 30px;
+}
+.iconics {
+ display: flex;
+}
+.y{
+    border: 1px aliceblue solid;
+    border-radius: 25px 25px 25px 25px;
+    height: 28px;
+    width: 28px;
+    /* top: 2px; */
+    position: relative;
+    background-color: aliceblue;
+    position: relative;
+    right:50px;
+
+}
+.y p{
+font-family: 'Plus Jakarta Sans';
+font-size: 14px;
+font-weight: 800;
+line-height: 18px;
+letter-spacing: -0.007em;
+text-align: center;
+position: relative;
+top: 5px;
+right: 4px;
+color: rgba(79, 70, 229, 1);
+}
+
+.Avatar1-3{
+    position: relative;
+    right: 10px;
+}
+.Avatar1-4{
+    position: relative;
+    right: 25px;
+}
+.Avatar1-7{
+    position: relative;
+    right: 35px;
+}
+.Avatar1-8{
+    position: relative;
+    right: 50px;
+
+}
+.Avatar1-9{
+    position: relative;
+    right: 64px;
+}
+.iconics img{
+    width: 28px;
+    height: 28px;
+}
+.y-1{
+    border: 1px aliceblue solid;
+    border-radius: 25px 25px 25px 25px;
+    height: 30px;
+    width: 28px;
+    top: 2px;
+    position: relative;
+    background-color: aliceblue;
+    position: relative;
+    right:23px;
+
+}
+.y-1 p{
+font-family: 'Plus Jakarta Sans';
+font-size: 14px;
+font-weight: 800;
+line-height: 18px;
+letter-spacing: -0.007em;
+text-align: center;
+position: relative;
+top: 5px;
+right: 4px;
+color: rgba(79, 70, 229, 1);
+}
+td button{
+    position: relative;
+    left: 40px;
+}
+.class1{
+  color: red;
+  border: 1px white solid;
+    background-color: white;
+}
+.class2{
+    position: relative;
+    left:70px;
+    color:blue;
+    border: 1px white solid;
+    background-color: white;
+}
+table{
+    border: 1px solid rgba(233, 234, 234, 1);
+    border-radius: 19px 19px 0px 0px;
+}
+.divider2{
+    border: 1px solid rgba(233, 234, 234, 1);
+    position: relative;
+    top: 30px;
+}
+
